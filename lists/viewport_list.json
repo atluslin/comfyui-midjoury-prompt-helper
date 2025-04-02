@@ -1,0 +1,414 @@
+[
+    {
+        "name": "微距拍摄",
+        "prompt": "Macro shot"
+    },
+    {
+        "name": "黄金比例构图",
+        "prompt": "Golden Ratio composition"
+    },
+    {
+        "name": "半身照",
+        "prompt": "Half Body shot"
+    },
+    {
+        "name": "全身照",
+        "prompt": "Full body shot"
+    },
+    {
+        "name": "极端特写",
+        "prompt": "Extreme closeup"
+    },
+    {
+        "name": "俯视图",
+        "prompt": "Top view"
+    },
+    {
+        "name": "鸟瞰图",
+        "prompt": "Bird's-eye view"
+    },
+    {
+        "name": "第一人称视角",
+        "prompt": "First-person view"
+    },
+    {
+        "name": "头像摄影",
+        "prompt": "headshot photography"
+    },
+    {
+        "name": "特写",
+        "prompt": "Close up"
+    },
+    {
+        "name": "背景虚化",
+        "prompt": "bokeh"
+    },
+    {
+        "name": "全景",
+        "prompt": "panorama"
+    },
+    {
+        "name": "低角度视图",
+        "prompt": "low angle view"
+    },
+    {
+        "name": "鱼眼视图",
+        "prompt": "Fisheye view"
+    },
+    {
+        "name": "卫星图像",
+        "prompt": "satellite imagery"
+    },
+    {
+        "name": "时间码",
+        "prompt": "Timecode"
+    },
+    {
+        "name": "虚拟现实摄影",
+        "prompt": "Virtual reality photography"
+    },
+    {
+        "name": "增强现实摄影",
+        "prompt": "Augmented reality photography"
+    },
+    {
+        "name": "直升机航拍",
+        "prompt": "Helicopter aerial photography"
+    },
+    {
+        "name": "正面视图",
+        "prompt": "Front view"
+    },
+    {
+        "name": "戏剧性拍摄",
+        "prompt": "Drama shooting"
+    },
+    {
+        "name": "镜头遮光罩",
+        "prompt": "Lens hood"
+    },
+    {
+        "name": "商业视频拍摄",
+        "prompt": "Commercial video shooting"
+    },
+    {
+        "name": "超长焦镜头",
+        "prompt": "Super telephoto lens"
+    },
+    {
+        "name": "俯拍",
+        "prompt": "overhead shot"
+    },
+    {
+        "name": "臀部高度拍摄",
+        "prompt": "hip level shot"
+    },
+    {
+        "name": "平视角度",
+        "prompt": "eye level angle"
+    },
+    {
+        "name": "远景",
+        "prompt": "long shot"
+    },
+    {
+        "name": "中景",
+        "prompt": "medium shot"
+    },
+    {
+        "name": "全景拍摄",
+        "prompt": "full shot"
+    },
+    {
+        "name": "鸟瞰视角",
+        "prompt": "birds eye view"
+    },
+    {
+        "name": "航拍",
+        "prompt": "aerial shot"
+    },
+    {
+        "name": "肩部高度拍摄",
+        "prompt": "shoulder level shot"
+    },
+    {
+        "name": "背面视图",
+        "prompt": "back view"
+    },
+    {
+        "name": "动态拍摄",
+        "prompt": "Dynamic shot"
+    },
+    {
+        "name": "低角度",
+        "prompt": "low angle"
+    },
+    {
+        "name": "高角度",
+        "prompt": "high angle"
+    },
+    {
+        "name": "广角镜头",
+        "prompt": "wide angle lens"
+    },
+    {
+        "name": "黑白胶片",
+        "prompt": "Black and white film"
+    },
+    {
+        "name": "抽象摄影",
+        "prompt": "Abstract photography"
+    },
+    {
+        "name": "人体摄影",
+        "prompt": "Body photography"
+    },
+    {
+        "name": "图像稳定",
+        "prompt": "Image stabilization"
+    },
+    {
+        "name": "不对称构图",
+        "prompt": "Asymmetrical composition"
+    },
+    {
+        "name": "低角度视图",
+        "prompt": "Low angle view"
+    },
+    {
+        "name": "俯视图",
+        "prompt": "top view"
+    },
+    {
+        "name": "等距视图",
+        "prompt": "isometric view"
+    },
+    {
+        "name": "隔离构图",
+        "prompt": "Isolation composition"
+    },
+    {
+        "name": "汇聚线构图",
+        "prompt": "Converging lines composition"
+    },
+    {
+        "name": "超广角",
+        "prompt": "Ultra Wide Angle"
+    },
+    {
+        "name": "对称构图",
+        "prompt": "Symmetrical composition"
+    },
+    {
+        "name": "消失点",
+        "prompt": "vanishing point"
+    },
+    {
+        "name": "三分法构图",
+        "prompt": "Rule of Thirds composition"
+    },
+    {
+        "name": "主观视角",
+        "prompt": "Subjective view"
+    },
+    {
+        "name": "360度全景",
+        "prompt": "360 Panorama"
+    },
+    {
+        "name": "超远景",
+        "prompt": "extra long shot"
+    },
+    {
+        "name": "中心构图",
+        "prompt": "Center the composition"
+    },
+    {
+        "name": "广角视图",
+        "prompt": "Wide view"
+    },
+    {
+        "name": "消失点构图",
+        "prompt": "Vanishing point composition"
+    },
+    {
+        "name": "航拍视图",
+        "prompt": "Aerial view"
+    },
+    {
+        "name": "放射状构图",
+        "prompt": "Radial composition"
+    },
+    {
+        "name": "对角线构图",
+        "prompt": "Diagonal composition"
+    },
+    {
+        "name": "倾斜视图",
+        "prompt": "Tilted view"
+    },
+    {
+        "name": "微观视图",
+        "prompt": "microscopic view"
+    },
+    {
+        "name": "角色视角",
+        "prompt": "Character perspective"
+    },
+    {
+        "name": "单反拍摄",
+        "prompt": "Shot by DSLR"
+    },
+    {
+        "name": "外部视角",
+        "prompt": "from outside"
+    },
+    {
+        "name": "侧面",
+        "prompt": "profile"
+    },
+    {
+        "name": "腰部拍摄",
+        "prompt": "waist shot"
+    },
+    {
+        "name": "并置构图",
+        "prompt": "Juxtaposition composition"
+    },
+    {
+        "name": "动态GIF",
+        "prompt": "Dynamic GIF"
+    },
+    {
+        "name": "手电筒效果",
+        "prompt": "Flashlight effect"
+    },
+    {
+        "name": "环形灯",
+        "prompt": "Ring light"
+    },
+    {
+        "name": "镜头滤镜",
+        "prompt": "Lens filter"
+    },
+    {
+        "name": "预设场景",
+        "prompt": "Preset scene"
+    },
+    {
+        "name": "实景拍摄",
+        "prompt": "Live-action scene"
+    },
+    {
+        "name": "电影特效",
+        "prompt": "Film special effects"
+    },
+    {
+        "name": "视觉效果",
+        "prompt": "Visual effects"
+    },
+    {
+        "name": "地平线",
+        "prompt": "Horizon line"
+    },
+    {
+        "name": "跟焦摄影",
+        "prompt": "Follow focus photography"
+    },
+    {
+        "name": "特效拍摄",
+        "prompt": "Special effects shooting"
+    },
+    {
+        "name": "背景模糊",
+        "prompt": "Background blur"
+    },
+    {
+        "name": "光线补偿",
+        "prompt": "Light compensation"
+    },
+    {
+        "name": "创意构图",
+        "prompt": "Creative composition"
+    },
+    {
+        "name": "幻想摄影",
+        "prompt": "Fantasy photography"
+    },
+    {
+        "name": "全景摄影",
+        "prompt": "Panoramic photography"
+    },
+    {
+        "name": "感光度",
+        "prompt": "Photosensitivity"
+    },
+    {
+        "name": "逆光效果",
+        "prompt": "Backlighting effect"
+    },
+    {
+        "name": "暗角效果",
+        "prompt": "Vignetting"
+    },
+    {
+        "name": "散景效果",
+        "prompt": "Bokeh effect"
+    },
+    {
+        "name": "电影拍摄",
+        "prompt": "Film shooting"
+    },
+    {
+        "name": "动画摄影",
+        "prompt": "Animation photography"
+    },
+    {
+        "name": "高速摄影",
+        "prompt": "High-speed photography"
+    },
+    {
+        "name": "短片",
+        "prompt": "Short film"
+    },
+    {
+        "name": "物体追踪",
+        "prompt": "Object tracking"
+    },
+    {
+        "name": "慢速快门",
+        "prompt": "Slow shutter"
+    },
+    {
+        "name": "全画幅传感器",
+        "prompt": "Full-frame sensor"
+    },
+    {
+        "name": "星轨摄影",
+        "prompt": "Star trail photography"
+    },
+    {
+        "name": "滑轨摄影",
+        "prompt": "Slider photography"
+    },
+    {
+        "name": "航拍摄影",
+        "prompt": "Aerial photography"
+    },
+    {
+        "name": "自拍",
+        "prompt": "Selfie"
+    },
+    {
+        "name": "彩色胶片",
+        "prompt": "Color film"
+    },
+    {
+        "name": "夜间摄影",
+        "prompt": "Night photography"
+    },
+    {
+        "name": "防抖技术",
+        "prompt": "Anti-shake technology"
+    }
+]

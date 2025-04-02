@@ -1,0 +1,466 @@
+[
+    {
+        "name": "3D设计",
+        "prompt": "3D design"
+    },
+    {
+        "name": "T恤设计",
+        "prompt": "t-shirt design"
+    },
+    {
+        "name": "极简线条标志",
+        "prompt": "minimal line logo"
+    },
+    {
+        "name": "禅绕画",
+        "prompt": "zentangle"
+    },
+    {
+        "name": "木刻",
+        "prompt": "woodcutting"
+    },
+    {
+        "name": "素描",
+        "prompt": "Sketching"
+    },
+    {
+        "name": "厚涂绘画",
+        "prompt": "thick impasto painting"
+    },
+    {
+        "name": "底色绘画",
+        "prompt": "underpainting"
+    },
+    {
+        "name": "木版画",
+        "prompt": "woodblock"
+    },
+    {
+        "name": "阴影",
+        "prompt": "shading"
+    },
+    {
+        "name": "丝网印刷",
+        "prompt": "screen printing"
+    },
+    {
+        "name": "刮刻法",
+        "prompt": "sgraffito"
+    },
+    {
+        "name": "浇注绘画",
+        "prompt": "pouring painting"
+    },
+    {
+        "name": "点画法",
+        "prompt": "stippling"
+    },
+    {
+        "name": "透视绘画",
+        "prompt": "perspective painting"
+    },
+    {
+        "name": "拼贴纸艺",
+        "prompt": "patch quilling"
+    },
+    {
+        "name": "剪纸",
+        "prompt": "papercut"
+    },
+    {
+        "name": "拼纸艺术",
+        "prompt": "paper piecing"
+    },
+    {
+        "name": "折纸",
+        "prompt": "origami"
+    },
+    {
+        "name": "麻胶版画",
+        "prompt": "linocut"
+    },
+    {
+        "name": "剪纸艺术",
+        "prompt": "kirigami"
+    },
+    {
+        "name": "厚涂",
+        "prompt": "impasto"
+    },
+    {
+        "name": "干笔画",
+        "prompt": "dry brush painting"
+    },
+    {
+        "name": "剪贴装饰",
+        "prompt": "decoupage"
+    },
+    {
+        "name": "交叉排线",
+        "prompt": "cross hatching"
+    },
+    {
+        "name": "铜版雕刻",
+        "prompt": "copperplate engraving"
+    },
+    {
+        "name": "轮廓画",
+        "prompt": "contour drawing"
+    },
+    {
+        "name": "明暗对比",
+        "prompt": "chiaroscuro"
+    },
+    {
+        "name": "混合绘画",
+        "prompt": "blending painting"
+    },
+    {
+        "name": "ASCII艺术",
+        "prompt": "ascii art"
+    },
+    {
+        "name": "行动绘画",
+        "prompt": "action painting"
+    },
+    {
+        "name": "网页UI/UX设计",
+        "prompt": "web ui ux design"
+    },
+    {
+        "name": "UI资源",
+        "prompt": "ui assets"
+    },
+    {
+        "name": "三联画构图",
+        "prompt": "triptych composition"
+    },
+    {
+        "name": "纹身设计",
+        "prompt": "tattoo design"
+    },
+    {
+        "name": "塔罗牌设计",
+        "prompt": "tarot design"
+    },
+    {
+        "name": "故事板",
+        "prompt": "story board"
+    },
+    {
+        "name": "贴纸",
+        "prompt": "sticker"
+    },
+    {
+        "name": "无缝图案",
+        "prompt": "seamless pattern"
+    },
+    {
+        "name": "剪贴簿",
+        "prompt": "scrapbooking"
+    },
+    {
+        "name": "示意图",
+        "prompt": "schematic diagram"
+    },
+    {
+        "name": "房间平面图",
+        "prompt": "room plan"
+    },
+    {
+        "name": "简历设计",
+        "prompt": "resume design"
+    },
+    {
+        "name": "宣传海报",
+        "prompt": "propaganda poster"
+    },
+    {
+        "name": "产品模型",
+        "prompt": "product mockup"
+    },
+    {
+        "name": "产品设计",
+        "prompt": "product design"
+    },
+    {
+        "name": "海报风格",
+        "prompt": "posterlike"
+    },
+    {
+        "name": "邮票",
+        "prompt": "postage stamp"
+    },
+    {
+        "name": "多联画构图",
+        "prompt": "polytych composition"
+    },
+    {
+        "name": "照片拼贴",
+        "prompt": "photo collage"
+    },
+    {
+        "name": "包装设计",
+        "prompt": "packaging design"
+    },
+    {
+        "name": "服装搭配",
+        "prompt": "outfit composition"
+    },
+    {
+        "name": "美甲艺术",
+        "prompt": "nail art"
+    },
+    {
+        "name": "情绪板",
+        "prompt": "mood board"
+    },
+    {
+        "name": "移动应用UI/UX设计",
+        "prompt": "mobile app ui ux design"
+    },
+    {
+        "name": "菜单设计",
+        "prompt": "menu design"
+    },
+    {
+        "name": "杂志封面",
+        "prompt": "magazine cover"
+    },
+    {
+        "name": "造型册",
+        "prompt": "lookbook"
+    },
+    {
+        "name": "字母设计",
+        "prompt": "letter design"
+    },
+    {
+        "name": "珠宝设计",
+        "prompt": "jewelry design"
+    },
+    {
+        "name": "室内设计",
+        "prompt": "interior design"
+    },
+    {
+        "name": "图标集",
+        "prompt": "icon set"
+    },
+    {
+        "name": "传单",
+        "prompt": "flyer"
+    },
+    {
+        "name": "流程图",
+        "prompt": "flowchart"
+    },
+    {
+        "name": "时装模型",
+        "prompt": "fashion mockup"
+    },
+    {
+        "name": "外观设计",
+        "prompt": "exterior design"
+    },
+    {
+        "name": "珐琅徽章",
+        "prompt": "enamel pin"
+    },
+    {
+        "name": "图表",
+        "prompt": "diagram"
+    },
+    {
+        "name": "商业广告",
+        "prompt": "commercial ad"
+    },
+    {
+        "name": "填色书页",
+        "prompt": "coloring book page"
+    },
+    {
+        "name": "剪贴画",
+        "prompt": "clip art"
+    },
+    {
+        "name": "角色地图",
+        "prompt": "character map"
+    },
+    {
+        "name": "不同姿势的角色设计",
+        "prompt": "character design different poses"
+    },
+    {
+        "name": "名片",
+        "prompt": "business card"
+    },
+    {
+        "name": "品牌标识",
+        "prompt": "brand identity"
+    },
+    {
+        "name": "书籍封面",
+        "prompt": "book cover"
+    },
+    {
+        "name": "专辑封面",
+        "prompt": "album cover"
+    },
+    {
+        "name": "3D浮雕",
+        "prompt": "3D embossed"
+    },
+    {
+        "name": "Ruth Kedar风格",
+        "prompt": "By Ruth Kedar"
+    },
+    {
+        "name": "天野喜孝风格",
+        "prompt": "By Yoshitaka Amano"
+    },
+    {
+        "name": "新川洋司风格",
+        "prompt": "By Yoji Shinkawa"
+    },
+    {
+        "name": "Steff Geissbuhler风格",
+        "prompt": "By Steff Geissbuhler"
+    },
+    {
+        "name": "Sagi Haviv风格",
+        "prompt": "By Sagi Haviv"
+    },
+    {
+        "name": "Rob Janoff风格",
+        "prompt": "By Rob Janoff"
+    },
+    {
+        "name": "Massimo Vignelli风格",
+        "prompt": "By Massimo Vignelli"
+    },
+    {
+        "name": "Paul Rand风格",
+        "prompt": "By Paul Rand"
+    },
+    {
+        "name": "吉祥物",
+        "prompt": "mascot"
+    },
+    {
+        "name": "游戏图标",
+        "prompt": "game icon"
+    },
+    {
+        "name": "俗气复古简约风格",
+        "prompt": "kitschy vintage retro simple"
+    },
+    {
+        "name": "日式风格",
+        "prompt": "style of japanese"
+    },
+    {
+        "name": "渐变标志",
+        "prompt": "logo gradient"
+    },
+    {
+        "name": "矢量",
+        "prompt": "vector"
+    },
+    {
+        "name": "角色表",
+        "prompt": "character sheet"
+    },
+    {
+        "name": "俯拍平面摄影",
+        "prompt": "flat lay photography"
+    },
+    {
+        "name": "连环漫画",
+        "prompt": "comic strips"
+    },
+    {
+        "name": "娃娃屋",
+        "prompt": "doll house"
+    },
+    {
+        "name": "图标集设计",
+        "prompt": "icon set design"
+    },
+    {
+        "name": "标志设计",
+        "prompt": "logo design"
+    },
+    {
+        "name": "百科全书页",
+        "prompt": "encyclopedia page"
+    },
+    {
+        "name": "调色板",
+        "prompt": "color palette"
+    },
+    {
+        "name": "房屋剖面图",
+        "prompt": "house cutaway"
+    },
+    {
+        "name": "全身角色设计",
+        "prompt": "full body character design"
+    },
+    {
+        "name": "立体书",
+        "prompt": "popup book"
+    },
+    {
+        "name": "游戏UI",
+        "prompt": "game ui"
+    },
+    {
+        "name": "解剖图",
+        "prompt": "Anatomical drawing"
+    },
+    {
+        "name": "房屋平面图",
+        "prompt": "house plan"
+    },
+    {
+        "name": "图表设计",
+        "prompt": "chart design"
+    },
+    {
+        "name": "平面排列",
+        "prompt": "knolling"
+    },
+    {
+        "name": "参考表",
+        "prompt": "reference sheet"
+    },
+    {
+        "name": "角色设计",
+        "prompt": "character design"
+    },
+    {
+        "name": "多种姿势的角色设计",
+        "prompt": "character design multiple poses"
+    },
+    {
+        "name": "四季分圆插画",
+        "prompt": "illstration split circle four seasons"
+    },
+    {
+        "name": "移动应用UI设计",
+        "prompt": "mobile app ui design"
+    },
+    {
+        "name": "信息图",
+        "prompt": "infographic"
+    },
+    {
+        "name": "时尚情绪板",
+        "prompt": "fashion moodboard"
+    },
+    {
+        "name": "游戏资源",
+        "prompt": "game assets"
+    }
+]

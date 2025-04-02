@@ -1,0 +1,770 @@
+[
+    {
+        "name": "照片写实",
+        "prompt": "Photorealistic"
+    },
+    {
+        "name": "传统中国水墨画风格",
+        "prompt": "Tradition Chinese Ink Painting style"
+    },
+    {
+        "name": "动漫",
+        "prompt": "Anime"
+    },
+    {
+        "name": "彩色铅笔",
+        "prompt": "Color Pencil"
+    },
+    {
+        "name": "泼墨",
+        "prompt": "Splashed Ink"
+    },
+    {
+        "name": "水墨画",
+        "prompt": "Ink Wash Painting"
+    },
+    {
+        "name": "素描肖像",
+        "prompt": "Sketch Portrait"
+    },
+    {
+        "name": "扁平设计",
+        "prompt": "flat design"
+    },
+    {
+        "name": "漫画",
+        "prompt": "Manga"
+    },
+    {
+        "name": "迪士尼",
+        "prompt": "disney"
+    },
+    {
+        "name": "卡通",
+        "prompt": "Cartoon"
+    },
+    {
+        "name": "3D",
+        "prompt": "3D"
+    },
+    {
+        "name": "标志设计",
+        "prompt": "Logo"
+    },
+    {
+        "name": "油画",
+        "prompt": "oil painting"
+    },
+    {
+        "name": "日式水墨",
+        "prompt": "Japanese ink"
+    },
+    {
+        "name": "抽象主义",
+        "prompt": "Abstractionist"
+    },
+    {
+        "name": "木刻版画",
+        "prompt": "Woodcut"
+    },
+    {
+        "name": "彩绘",
+        "prompt": "Polychrome"
+    },
+    {
+        "name": "风景画",
+        "prompt": "Landscape Painting"
+    },
+    {
+        "name": "像素艺术",
+        "prompt": "Pixel Art"
+    },
+    {
+        "name": "剪纸工艺",
+        "prompt": "Paper cut craft"
+    },
+    {
+        "name": "中国宣传画",
+        "prompt": "Chinese propaganda"
+    },
+    {
+        "name": "分形艺术",
+        "prompt": "Fractal"
+    },
+    {
+        "name": "壁画",
+        "prompt": "Mural"
+    },
+    {
+        "name": "表现主义",
+        "prompt": "Expressionism"
+    },
+    {
+        "name": "玻璃艺术",
+        "prompt": "Glass Art"
+    },
+    {
+        "name": "草书",
+        "prompt": "Cursive Script"
+    },
+    {
+        "name": "粗略草图",
+        "prompt": "Rough Sketch"
+    },
+    {
+        "name": "刺绣艺术",
+        "prompt": "Embroidery Art"
+    },
+    {
+        "name": "雕塑",
+        "prompt": "Sculptor"
+    },
+    {
+        "name": "粉笔画",
+        "prompt": "Chalk Drawing"
+    },
+    {
+        "name": "浮世绘",
+        "prompt": "Ukiyoe"
+    },
+    {
+        "name": "哥特式",
+        "prompt": "Gothic"
+    },
+    {
+        "name": "古典主义",
+        "prompt": "Classicism"
+    },
+    {
+        "name": "广告插画",
+        "prompt": "Advertising Illustration"
+    },
+    {
+        "name": "后现代主义",
+        "prompt": "Postmodernism"
+    },
+    {
+        "name": "灰度",
+        "prompt": "Grayscale"
+    },
+    {
+        "name": "插画",
+        "prompt": "Illustration"
+    },
+    {
+        "name": "纹理",
+        "prompt": "Texture"
+    },
+    {
+        "name": "家具艺术",
+        "prompt": "Furniture Art"
+    },
+    {
+        "name": "简笔画",
+        "prompt": "stick figure"
+    },
+    {
+        "name": "建筑艺术",
+        "prompt": "Architectural Art"
+    },
+    {
+        "name": "静物画",
+        "prompt": "Still Life Painting"
+    },
+    {
+        "name": "蜡笔画",
+        "prompt": "Crayon Drawing"
+    },
+    {
+        "name": "浪漫主义",
+        "prompt": "Romanticism"
+    },
+    {
+        "name": "立体主义",
+        "prompt": "Cubism"
+    },
+    {
+        "name": "洛可可",
+        "prompt": "Rococo"
+    },
+    {
+        "name": "炭笔画",
+        "prompt": "Charcoal Drawing"
+    },
+    {
+        "name": "民间艺术",
+        "prompt": "Folk Art"
+    },
+    {
+        "name": "民族主义",
+        "prompt": "Nationalism"
+    },
+    {
+        "name": "拼贴艺术",
+        "prompt": "Collage"
+    },
+    {
+        "name": "前卫艺术",
+        "prompt": "Avant-garde Art"
+    },
+    {
+        "name": "全息虹彩",
+        "prompt": "holographic iridescent"
+    },
+    {
+        "name": "人物画",
+        "prompt": "Figure Painting"
+    },
+    {
+        "name": "色彩研究",
+        "prompt": "Color Study"
+    },
+    {
+        "name": "色块",
+        "prompt": "Color Block"
+    },
+    {
+        "name": "沙画",
+        "prompt": "Sand Painting"
+    },
+    {
+        "name": "谷物画",
+        "prompt": "Grain Painting"
+    },
+    {
+        "name": "摄影",
+        "prompt": "Photography"
+    },
+    {
+        "name": "神秘主义",
+        "prompt": "Mysticism"
+    },
+    {
+        "name": "石墨画",
+        "prompt": "Graphite Drawing"
+    },
+    {
+        "name": "时尚插画",
+        "prompt": "Fashion Illustration"
+    },
+    {
+        "name": "实验艺术",
+        "prompt": "Experimental Art"
+    },
+    {
+        "name": "手绘",
+        "prompt": "Hand Drawing"
+    },
+    {
+        "name": "数字素描",
+        "prompt": "Digital Sketch"
+    },
+    {
+        "name": "数字艺术",
+        "prompt": "Digital Art"
+    },
+    {
+        "name": "水彩",
+        "prompt": "Watercolor"
+    },
+    {
+        "name": "水晶艺术",
+        "prompt": "Crystal Art"
+    },
+    {
+        "name": "素描静物",
+        "prompt": "Sketch Still Life"
+    },
+    {
+        "name": "贴纸艺术",
+        "prompt": "Sticker Art"
+    },
+    {
+        "name": "铁艺",
+        "prompt": "Ironwork"
+    },
+    {
+        "name": "网格画",
+        "prompt": "Grid Painting"
+    },
+    {
+        "name": "网络艺术",
+        "prompt": "Net Art"
+    },
+    {
+        "name": "现代主义",
+        "prompt": "Modernism"
+    },
+    {
+        "name": "肖像画",
+        "prompt": "Portrait Painting"
+    },
+    {
+        "name": "现实主义",
+        "prompt": "Realism"
+    },
+    {
+        "name": "新古典主义",
+        "prompt": "Neoclassicism"
+    },
+    {
+        "name": "宗教艺术",
+        "prompt": "Religious Art"
+    },
+    {
+        "name": "岩石艺术",
+        "prompt": "Rock Art"
+    },
+    {
+        "name": "音乐艺术",
+        "prompt": "Music Art"
+    },
+    {
+        "name": "版画",
+        "prompt": "Printmaking"
+    },
+    {
+        "name": "印象派",
+        "prompt": "Impressionism"
+    },
+    {
+        "name": "中国皮影",
+        "prompt": "Chinese Shadow Puppets"
+    },
+    {
+        "name": "装饰艺术",
+        "prompt": "Decorative Art"
+    },
+    {
+        "name": "创风格",
+        "prompt": "Tron style"
+    },
+    {
+        "name": "粉彩画",
+        "prompt": "Pastel drawing"
+    },
+    {
+        "name": "Risograph风格",
+        "prompt": "Risograph Style"
+    },
+    {
+        "name": "酸性精灵",
+        "prompt": "acid pixie"
+    },
+    {
+        "name": "纤维素",
+        "prompt": "Cellulose"
+    },
+    {
+        "name": "局部解剖",
+        "prompt": "partial anatomy"
+    },
+    {
+        "name": "解剖学",
+        "prompt": "anatomy"
+    },
+    {
+        "name": "酸性波普",
+        "prompt": "acidwave"
+    },
+    {
+        "name": "霓虹风格",
+        "prompt": "Neon Style"
+    },
+    {
+        "name": "梅尔卡巴风格",
+        "prompt": "Merkaba Style"
+    },
+    {
+        "name": "游戏场景图",
+        "prompt": "Game scene graph"
+    },
+    {
+        "name": "法国艺术",
+        "prompt": "french art"
+    },
+    {
+        "name": "素描",
+        "prompt": "Sketching"
+    },
+    {
+        "name": "2D插画",
+        "prompt": "2D illustration"
+    },
+    {
+        "name": "古代",
+        "prompt": "Ancient"
+    },
+    {
+        "name": "蚀刻",
+        "prompt": "Etching"
+    },
+    {
+        "name": "宝可梦风格",
+        "prompt": "Pokemon Style"
+    },
+    {
+        "name": "复古暗黑",
+        "prompt": "retro dark vintage"
+    },
+    {
+        "name": "联觉",
+        "prompt": "synesthesia"
+    },
+    {
+        "name": "波尔卡风格",
+        "prompt": "polka style"
+    },
+    {
+        "name": "维多利亚",
+        "prompt": "Victorian"
+    },
+    {
+        "name": "古日本木版画",
+        "prompt": "Old Japanese Woodblock Print"
+    },
+    {
+        "name": "滴落颜料",
+        "prompt": "Dripping Paint"
+    },
+    {
+        "name": "赛博朋克",
+        "prompt": "Cyberpunk"
+    },
+    {
+        "name": "副岛成记风格",
+        "prompt": "Soejima Shigenori"
+    },
+    {
+        "name": "纹身艺术",
+        "prompt": "Tattoo art"
+    },
+    {
+        "name": "曼陀罗风格",
+        "prompt": "Mandala style"
+    },
+    {
+        "name": "F.Kupka风格",
+        "prompt": "F.Kupka style"
+    },
+    {
+        "name": "漫画书",
+        "prompt": "Comicbook"
+    },
+    {
+        "name": "粉彩",
+        "prompt": "Pastel"
+    },
+    {
+        "name": "色彩风格",
+        "prompt": "Chromatic style"
+    },
+    {
+        "name": "炭笔风格",
+        "prompt": "Charcoal Style"
+    },
+    {
+        "name": "欧普艺术",
+        "prompt": "Op art"
+    },
+    {
+        "name": "泼溅颜料",
+        "prompt": "Splatter Paint"
+    },
+    {
+        "name": "拼布拼贴",
+        "prompt": "Patchwork collage"
+    },
+    {
+        "name": "滴落艺术",
+        "prompt": "Dripping art"
+    },
+    {
+        "name": "街头涂鸦风格",
+        "prompt": "Street craffiti Style"
+    },
+    {
+        "name": "图像小说",
+        "prompt": "Graphic Novel"
+    },
+    {
+        "name": "跑跑姜饼人王国",
+        "prompt": "Cookie Run Kingdom"
+    },
+    {
+        "name": "绗缝艺术",
+        "prompt": "Quilted Art"
+    },
+    {
+        "name": "Risograph风格",
+        "prompt": "risograph Style"
+    },
+    {
+        "name": "达达主义",
+        "prompt": "dada style"
+    },
+    {
+        "name": "英雄联盟",
+        "prompt": "League of Legends"
+    },
+    {
+        "name": "点画风格",
+        "prompt": "Dots style"
+    },
+    {
+        "name": "光绘",
+        "prompt": "Light Painting"
+    },
+    {
+        "name": "Nychos的爆炸猫",
+        "prompt": "Exploded a cat by Nychos"
+    },
+    {
+        "name": "彩色玻璃",
+        "prompt": "Stained Glass"
+    },
+    {
+        "name": "一笔画",
+        "prompt": "One-line drawing"
+    },
+    {
+        "name": "上古卷轴",
+        "prompt": "The Elder Scrolls"
+    },
+    {
+        "name": "抽象",
+        "prompt": "Abstract"
+    },
+    {
+        "name": "文艺复兴",
+        "prompt": "Renaissance"
+    },
+    {
+        "name": "几何",
+        "prompt": "geometric"
+    },
+    {
+        "name": "漫威漫画封面",
+        "prompt": "Front Cover of a Marvel Comic"
+    },
+    {
+        "name": "水粉",
+        "prompt": "Gouache"
+    },
+    {
+        "name": "合成波",
+        "prompt": "Synth-wave"
+    },
+    {
+        "name": "涂鸦风格",
+        "prompt": "Squiggles Style"
+    },
+    {
+        "name": "折纸风格",
+        "prompt": "Origami Style"
+    },
+    {
+        "name": "水彩",
+        "prompt": "Watercolour"
+    },
+    {
+        "name": "复古平面设计",
+        "prompt": "Graphic design Retro style"
+    },
+    {
+        "name": "1980年代",
+        "prompt": "1980s"
+    },
+    {
+        "name": "包豪斯风格",
+        "prompt": "Bauhaus Style"
+    },
+    {
+        "name": "点彩派",
+        "prompt": "Pointillism"
+    },
+    {
+        "name": "儿童水彩插画",
+        "prompt": "Watercolor Children's illustration"
+    },
+    {
+        "name": "低多边形",
+        "prompt": "low poly"
+    },
+    {
+        "name": "荒野之息风格",
+        "prompt": "botw Style"
+    },
+    {
+        "name": "山田章博",
+        "prompt": "Yamada Akihiro"
+    },
+    {
+        "name": "宣传海报",
+        "prompt": "propaganda poster"
+    },
+    {
+        "name": "珐琅别针",
+        "prompt": "enamel pin"
+    },
+    {
+        "name": "拜占庭风格",
+        "prompt": "byzantine Style"
+    },
+    {
+        "name": "1800年代",
+        "prompt": "1800s"
+    },
+    {
+        "name": "蒸汽朋克",
+        "prompt": "Steampunk"
+    },
+    {
+        "name": "构成主义",
+        "prompt": "Constructivist"
+    },
+    {
+        "name": "黏土动画",
+        "prompt": "Claymotion"
+    },
+    {
+        "name": "日本浮世绘",
+        "prompt": "Japanese Ukiyo-e"
+    },
+    {
+        "name": "羊毛制作",
+        "prompt": "Made of Wool"
+    },
+    {
+        "name": "粗野主义",
+        "prompt": "Brutalist"
+    },
+    {
+        "name": "皮克斯",
+        "prompt": "Pixar"
+    },
+    {
+        "name": "黑光",
+        "prompt": "Blacklight"
+    },
+    {
+        "name": "新海诚风格",
+        "prompt": "Makoto Shinkai Style"
+    },
+    {
+        "name": "苏联宣传海报",
+        "prompt": "Soviet Propaganda Poster"
+    },
+    {
+        "name": "风格派",
+        "prompt": "de stijl"
+    },
+    {
+        "name": "电影艺术",
+        "prompt": "film art"
+    },
+    {
+        "name": "伏尼契手稿",
+        "prompt": "Voynich manuscript"
+    },
+    {
+        "name": "涂鸦",
+        "prompt": "doodle"
+    },
+    {
+        "name": "解剖图",
+        "prompt": "Anatomical Drawing"
+    },
+    {
+        "name": "填色书页",
+        "prompt": "coloring book page"
+    },
+    {
+        "name": "墨水插画",
+        "prompt": "Ink illustration"
+    },
+    {
+        "name": "纸卷艺术",
+        "prompt": "Paper quilling"
+    },
+    {
+        "name": "虚幻引擎",
+        "prompt": "unreal engine"
+    },
+    {
+        "name": "赛博迷幻",
+        "prompt": "cyberdelic"
+    },
+    {
+        "name": "未来主义",
+        "prompt": "Futuristic"
+    },
+    {
+        "name": "数字绘画",
+        "prompt": "digital painting"
+    },
+    {
+        "name": "蓝图",
+        "prompt": "Blueprints"
+    },
+    {
+        "name": "Octane渲染",
+        "prompt": "Octane Render"
+    },
+    {
+        "name": "野兽派",
+        "prompt": "fauvism"
+    },
+    {
+        "name": "野兽派",
+        "prompt": "fauvism"
+    },
+    {
+        "name": "皮特·蒙德里安风格",
+        "prompt": "Piet Cornelies Mondrian"
+    },
+    {
+        "name": "纪实摄影",
+        "prompt": "documentary photography"
+    },
+    {
+        "name": "蒸汽波",
+        "prompt": "vaporwave"
+    },
+    {
+        "name": "超现实主义风格",
+        "prompt": "Surrealism style"
+    },
+    {
+        "name": "毕加索风格",
+        "prompt": "Pablo Picasso Style"
+    },
+    {
+        "name": "极简主义",
+        "prompt": "Minimalist"
+    },
+    {
+        "name": "波普艺术",
+        "prompt": "Pop art"
+    },
+    {
+        "name": "新艺术运动",
+        "prompt": "Art Nouveau"
+    },
+    {
+        "name": "吉卜力风格色彩",
+        "prompt": "Ghibli-like colours"
+    },
+    {
+        "name": "2D平面超级扁平",
+        "prompt": "2D graphic superflat"
+    },
+    {
+        "name": "日本平面设计海报",
+        "prompt": "poster of japanese graphic design"
+    },
+    {
+        "name": "8位像素",
+        "prompt": "8-bit pixel"
+    }
+]

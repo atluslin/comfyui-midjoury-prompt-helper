@@ -1,0 +1,506 @@
+[
+    {
+        "name": "简洁背景",
+        "prompt": "clean background trending"
+    },
+    {
+        "name": "动物园",
+        "prompt": "Zoological garden"
+    },
+    {
+        "name": "松软地面",
+        "prompt": "Yielding ground"
+    },
+    {
+        "name": "庭院",
+        "prompt": "Yard"
+    },
+    {
+        "name": "草地",
+        "prompt": "meadow"
+    },
+    {
+        "name": "疯狂麦克斯风格",
+        "prompt": "mad max"
+    },
+    {
+        "name": "超现实主义",
+        "prompt": "hyperrealism"
+    },
+    {
+        "name": "异想天开",
+        "prompt": "whimsically"
+    },
+    {
+        "name": "洞穴",
+        "prompt": "Cave"
+    },
+    {
+        "name": "外星行星",
+        "prompt": "Alien planet"
+    },
+    {
+        "name": "校园",
+        "prompt": "Campus"
+    },
+    {
+        "name": "魔法城堡",
+        "prompt": "Magical castle"
+    },
+    {
+        "name": "雨天",
+        "prompt": "rain"
+    },
+    {
+        "name": "疯狂麦克斯沙尘场景",
+        "prompt": "mad max dust scene"
+    },
+    {
+        "name": "河流",
+        "prompt": "River"
+    },
+    {
+        "name": "珊瑚礁",
+        "prompt": "Coral reef"
+    },
+    {
+        "name": "鬼城",
+        "prompt": "Ghost town"
+    },
+    {
+        "name": "篮球场",
+        "prompt": "Basketball Court"
+    },
+    {
+        "name": "花园背景",
+        "prompt": "garden background"
+    },
+    {
+        "name": "罗马斗兽场",
+        "prompt": "The Colosseum"
+    },
+    {
+        "name": "晨雾中",
+        "prompt": "In the morning mist"
+    },
+    {
+        "name": "海底世界",
+        "prompt": "Underwater world"
+    },
+    {
+        "name": "虫洞",
+        "prompt": "Wormhole"
+    },
+    {
+        "name": "月球表面",
+        "prompt": "moonscape"
+    },
+    {
+        "name": "歌剧院",
+        "prompt": "opera hall"
+    },
+    {
+        "name": "水下洞穴",
+        "prompt": "Underwater cave"
+    },
+    {
+        "name": "巴比伦空中花园",
+        "prompt": "Hanging Gardens of Babylon"
+    },
+    {
+        "name": "吉萨金字塔",
+        "prompt": "The Pyramids of Giza"
+    },
+    {
+        "name": "城市公园",
+        "prompt": "City park"
+    },
+    {
+        "name": "隧道",
+        "prompt": "tunnel"
+    },
+    {
+        "name": "银河",
+        "prompt": "galaxy"
+    },
+    {
+        "name": "工业城市景观",
+        "prompt": "Industrial citvscape"
+    },
+    {
+        "name": "河口",
+        "prompt": "Estuary"
+    },
+    {
+        "name": "炼金实验室",
+        "prompt": "Alchemy Laboratory"
+    },
+    {
+        "name": "山脉",
+        "prompt": "Mountain"
+    },
+    {
+        "name": "泰姬陵",
+        "prompt": "The Taj Mahal"
+    },
+    {
+        "name": "梦幻云层",
+        "prompt": "Dreamy clouds"
+    },
+    {
+        "name": "中世纪城堡",
+        "prompt": "Medieval castle"
+    },
+    {
+        "name": "足球场",
+        "prompt": "Soccer field"
+    },
+    {
+        "name": "峡谷",
+        "prompt": "Canyon"
+    },
+    {
+        "name": "星空夜景",
+        "prompt": "Starry night sky"
+    },
+    {
+        "name": "星云",
+        "prompt": "nebula"
+    },
+    {
+        "name": "宇宙",
+        "prompt": "universe I cosmos"
+    },
+    {
+        "name": "外星景观",
+        "prompt": "Extraterrestriallandscape"
+    },
+    {
+        "name": "空中花园",
+        "prompt": "Sky garden"
+    },
+    {
+        "name": "冰雪王国",
+        "prompt": "Ice kingdom"
+    },
+    {
+        "name": "荒野",
+        "prompt": "Wilderness"
+    },
+    {
+        "name": "埃菲尔铁塔",
+        "prompt": "Eiffel Tower"
+    },
+    {
+        "name": "果园",
+        "prompt": "Orchard"
+    },
+    {
+        "name": "花田",
+        "prompt": "flower field"
+    },
+    {
+        "name": "失落遗迹",
+        "prompt": "Lost ruins"
+    },
+    {
+        "name": "水晶洞穴",
+        "prompt": "Crystal cave"
+    },
+    {
+        "name": "幻想世界",
+        "prompt": "fantasy"
+    },
+    {
+        "name": "沼泽地",
+        "prompt": "Marshland"
+    },
+    {
+        "name": "美术馆",
+        "prompt": "Fine Arts Museum"
+    },
+    {
+        "name": "热带天堂",
+        "prompt": "Tropical paradise"
+    },
+    {
+        "name": "末日城市",
+        "prompt": "Apocalyptic city"
+    },
+    {
+        "name": "自动扶梯",
+        "prompt": "Escalator"
+    },
+    {
+        "name": "地牢",
+        "prompt": "dungeon"
+    },
+    {
+        "name": "异世界",
+        "prompt": "Otherworld"
+    },
+    {
+        "name": "中国长城",
+        "prompt": "The Great Wall of China"
+    },
+    {
+        "name": "教堂背景",
+        "prompt": "in a church background"
+    },
+    {
+        "name": "城堡内部",
+        "prompt": "inside the castle"
+    },
+    {
+        "name": "梦境",
+        "prompt": "Dreamland"
+    },
+    {
+        "name": "瀑布",
+        "prompt": "Waterfall"
+    },
+    {
+        "name": "后末日荒地",
+        "prompt": "Post-apocalyptic wasteland"
+    },
+    {
+        "name": "云雾森林",
+        "prompt": "Cloud forest"
+    },
+    {
+        "name": "黑洞",
+        "prompt": "Black hole"
+    },
+    {
+        "name": "魔法花园",
+        "prompt": "Enchanted garden"
+    },
+    {
+        "name": "小吃街",
+        "prompt": "Snack Street"
+    },
+    {
+        "name": "城市",
+        "prompt": "city"
+    },
+    {
+        "name": "自由女神像",
+        "prompt": "The Statue of Liberty"
+    },
+    {
+        "name": "超现实景观",
+        "prompt": "Surreallandscape"
+    },
+    {
+        "name": "幽灵森林",
+        "prompt": "Haunted forest"
+    },
+    {
+        "name": "熔岩洞穴",
+        "prompt": "Lava cave"
+    },
+    {
+        "name": "农田",
+        "prompt": "Farmland"
+    },
+    {
+        "name": "图书馆背景",
+        "prompt": "library background"
+    },
+    {
+        "name": "北极背景",
+        "prompt": "arctic background"
+    },
+    {
+        "name": "珠穆朗玛峰",
+        "prompt": "Mount Everest"
+    },
+    {
+        "name": "月球景观",
+        "prompt": "Lunar landscape"
+    },
+    {
+        "name": "茂盛自然",
+        "prompt": "overgrown nature"
+    },
+    {
+        "name": "未来大都市",
+        "prompt": "Futuristic metropolis"
+    },
+    {
+        "name": "网球场",
+        "prompt": "Tennis Court"
+    },
+    {
+        "name": "草地背景",
+        "prompt": "Grass field background"
+    },
+    {
+        "name": "湖泊",
+        "prompt": "Lake"
+    },
+    {
+        "name": "沙漠背景",
+        "prompt": "desert background"
+    },
+    {
+        "name": "海底",
+        "prompt": "Seabed"
+    },
+    {
+        "name": "草原",
+        "prompt": "Steppe"
+    },
+    {
+        "name": "街景",
+        "prompt": "street scenery"
+    },
+    {
+        "name": "天空背景",
+        "prompt": "sky background"
+    },
+    {
+        "name": "海滩背景",
+        "prompt": "beach background"
+    },
+    {
+        "name": "酒吧",
+        "prompt": "Bar"
+    },
+    {
+        "name": "未来城市",
+        "prompt": "Future Cities"
+    },
+    {
+        "name": "草原",
+        "prompt": "Grassland"
+    },
+    {
+        "name": "雪山",
+        "prompt": "Snowy mountain"
+    },
+    {
+        "name": "赛博朋克城市",
+        "prompt": "Cyberpunk city"
+    },
+    {
+        "name": "白色冬季森林背景",
+        "prompt": "white winter forest background"
+    },
+    {
+        "name": "雨林",
+        "prompt": "Rainforest"
+    },
+    {
+        "name": "魔法森林",
+        "prompt": "Enchanted forest"
+    },
+    {
+        "name": "近未来城市",
+        "prompt": "near future city"
+    },
+    {
+        "name": "森林",
+        "prompt": "Forest"
+    },
+    {
+        "name": "冰山",
+        "prompt": "Iceberg"
+    },
+    {
+        "name": "冰川",
+        "prompt": "Glacier"
+    },
+    {
+        "name": "游泳池",
+        "prompt": "Swimming pool"
+    },
+    {
+        "name": "厨房",
+        "prompt": "kitchen"
+    },
+    {
+        "name": "赌场",
+        "prompt": "casino"
+    },
+    {
+        "name": "电梯内",
+        "prompt": "In the elevator"
+    },
+    {
+        "name": "废墟",
+        "prompt": "ruins"
+    },
+    {
+        "name": "舞厅",
+        "prompt": "dancing hall"
+    },
+    {
+        "name": "火车站",
+        "prompt": "Train Station"
+    },
+    {
+        "name": "教室",
+        "prompt": "classroom"
+    },
+    {
+        "name": "家庭办公室背景",
+        "prompt": "home office background"
+    },
+    {
+        "name": "机场",
+        "prompt": "Airport"
+    },
+    {
+        "name": "卧室",
+        "prompt": "bedroom"
+    },
+    {
+        "name": "医院",
+        "prompt": "hospital"
+    },
+    {
+        "name": "反乌托邦未来",
+        "prompt": "Dystopian future"
+    },
+    {
+        "name": "游乐场",
+        "prompt": "Playground"
+    },
+    {
+        "name": "游戏室",
+        "prompt": "Game Room"
+    },
+    {
+        "name": "阳光充足",
+        "prompt": "full of sunlight"
+    },
+    {
+        "name": "羽毛球场",
+        "prompt": "Badminton Court"
+    },
+    {
+        "name": "雨天背景",
+        "prompt": "rain background"
+    },
+    {
+        "name": "网络空间",
+        "prompt": "Cyberspace"
+    },
+    {
+        "name": "废弃城市建筑",
+        "prompt": "deserted city buildings"
+    },
+    {
+        "name": "购物中心",
+        "prompt": "Shopping Mall"
+    },
+    {
+        "name": "简洁背景",
+        "prompt": "clean background"
+    },
+    {
+        "name": "办公室",
+        "prompt": "office"
+    }
+]

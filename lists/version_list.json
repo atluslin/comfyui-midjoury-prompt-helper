@@ -1,0 +1,27 @@
+[
+    {
+        "name": "v6版模型",
+        "prompt": "--v 6"
+    },
+    {
+        "name": "v5.2版模型",
+        "prompt": "--v 5.2"
+    },
+    {
+        "name": "v5.1版模型",
+        "prompt": "--v 5.1"
+    },
+    {
+        "name": "niji模型cute",
+        "prompt": "--v niji 5 --style cute"
+    },
+    {
+        "name": "niji模型scenic",
+        "prompt": "--v niji 5 --style scenic"
+    },
+    {
+        "name": "niji模型expressive",
+        "prompt": "--v niji 5 --style expressive"
+    }
+   
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "三分法构图",
+        "prompt": "Rule of Thirds"
+    },
+    {
+        "name": "对称构图",
+        "prompt": "Symmetrical Composition"
+    },
+    {
+        "name": "中心构图",
+        "prompt": "Central Composition"
+    },
+    {
+        "name": "对角线构图",
+        "prompt": "Diagonal Composition"
+    },
+    {
+        "name": "黄金分割",
+        "prompt": "Golden Ratio"
+    },
+    {
+        "name": "框架式构图",
+        "prompt": "Framing Composition"
+    },
+    {
+        "name": "引导线构图",
+        "prompt": "Leading Lines"
+    },
+    {
+        "name": "填充式构图",
+        "prompt": "Filling the Frame"
+    },
+    {
+        "name": "负空间构图",
+        "prompt": "Negative Space"
+    },
+    {
+        "name": "放射状构图",
+        "prompt": "Radial Composition"
+    },
+    {
+        "name": "三角形构图",
+        "prompt": "Triangular Composition"
+    },
+    {
+        "name": "S形曲线构图",
+        "prompt": "S-Curve Composition"
+    },
+    {
+        "name": "L形构图",
+        "prompt": "L-Shaped Composition"
+    },
+    {
+        "name": "Z形构图",
+        "prompt": "Z-Shaped Composition"
+    },
+    {
+        "name": "棋盘式构图",
+        "prompt": "Checkerboard Composition"
+    },
+    {
+        "name": "重复图案构图",
+        "prompt": "Repetition Pattern"
+    },
+    {
+        "name": "极简构图",
+        "prompt": "Minimalist Composition"
+    },
+    {
+        "name": "动态平衡构图",
+        "prompt": "Dynamic Balance"
+    },
+    {
+        "name": "静态平衡构图",
+        "prompt": "Static Balance"
+    },
+    {
+        "name": "前景构图",
+        "prompt": "Foreground Composition"
+    },
+    {
+        "name": "背景虚化构图",
+        "prompt": "Bokeh Composition"
+    },
+    {
+        "name": "高角度俯拍",
+        "prompt": "High Angle Shot"
+    },
+    {
+        "name": "低角度仰拍",
+        "prompt": "Low Angle Shot"
+    },
+    {
+        "name": "鸟瞰视角",
+        "prompt": "Bird's Eye View"
+    },
+    {
+        "name": "虫眼视角",
+        "prompt": "Worm's Eye View"
+    },
+    {
+        "name": "荷兰角构图",
+        "prompt": "Dutch Angle"
+    },
+    {
+        "name": "全景构图",
+        "prompt": "Panoramic Composition"
+    },
+    {
+        "name": "特写构图",
+        "prompt": "Close-up Composition"
+    },
+    {
+        "name": "中景构图",
+        "prompt": "Medium Shot"
+    },
+    {
+        "name": "远景构图",
+        "prompt": "Long Shot"
+    },
+    {
+        "name": "极端特写",
+        "prompt": "Extreme Close-up"
+    },
+    {
+        "name": "过肩镜头",
+        "prompt": "Over-the-Shoulder Shot"
+    },
+    {
+        "name": "双人镜头",
+        "prompt": "Two Shot"
+    },
+    {
+        "name": "群像构图",
+        "prompt": "Group Composition"
+    },
+    {
+        "name": "剪影构图",
+        "prompt": "Silhouette Composition"
+    },
+    {
+        "name": "反射构图",
+        "prompt": "Reflection Composition"
+    },
+    {
+        "name": "倒影构图",
+        "prompt": "Inverted Composition"
+    },
+    {
+        "name": "分割画面构图",
+        "prompt": "Split Screen Composition"
+    },
+    {
+        "name": "拼贴式构图",
+        "prompt": "Collage Composition"
+    },
+    {
+        "name": "网格构图",
+        "prompt": "Grid Composition"
+    },
+    {
+        "name": "螺旋构图",
+        "prompt": "Spiral Composition"
+    },
+    {
+        "name": "隧道式构图",
+        "prompt": "Tunnel Composition"
+    },
+    {
+        "name": "框中有框构图",
+        "prompt": "Frame within a Frame"
+    },
+    {
+        "name": "散点式构图",
+        "prompt": "Scattered Composition"
+    },
+    {
+        "name": "层次构图",
+        "prompt": "Layered Composition"
+    },
+    {
+        "name": "对比构图",
+        "prompt": "Contrast Composition"
+    },
+    {
+        "name": "运动模糊构图",
+        "prompt": "Motion Blur Composition"
+    },
+    {
+        "name": "鱼眼变形构图",
+        "prompt": "Fisheye Distortion"
+    },
+    {
+        "name": "倾斜构图",
+        "prompt": "Tilted Composition"
+    },
+    {
+        "name": "抽象构图",
+        "prompt": "Abstract Composition"
+    }
+]

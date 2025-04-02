@@ -1,0 +1,414 @@
+[
+    {
+        "name": "雕刻纹理",
+        "prompt": "Carved texture"
+    },
+    {
+        "name": "人字纹",
+        "prompt": "Herringbone Pattern"
+    },
+    {
+        "name": "粘土质感",
+        "prompt": "Clay texture"
+    },
+    {
+        "name": "玻璃",
+        "prompt": "Glass"
+    },
+    {
+        "name": "环氧树脂",
+        "prompt": "Epoxy"
+    },
+    {
+        "name": "流体",
+        "prompt": "Fluid"
+    },
+    {
+        "name": "毛绒",
+        "prompt": "Furry"
+    },
+    {
+        "name": "蛇纹条纹",
+        "prompt": "Serpentine Stripes Pattern"
+    },
+    {
+        "name": "岩浆",
+        "prompt": "Magma"
+    },
+    {
+        "name": "光粒子",
+        "prompt": "Light Particles"
+    },
+    {
+        "name": "蕾丝",
+        "prompt": "Lace"
+    },
+    {
+        "name": "佩斯利花纹",
+        "prompt": "Paisley"
+    },
+    {
+        "name": "阳极氧化钛",
+        "prompt": "Anodized Titanium"
+    },
+    {
+        "name": "蓬松",
+        "prompt": "Fluffy"
+    },
+    {
+        "name": "景泰蓝",
+        "prompt": "Cloisonné"
+    },
+    {
+        "name": "骨骼",
+        "prompt": "Skeletal"
+    },
+    {
+        "name": "发霉",
+        "prompt": "Moldy"
+    },
+    {
+        "name": "熔融",
+        "prompt": "Molten"
+    },
+    {
+        "name": "3D分形",
+        "prompt": "3D Fractals"
+    },
+    {
+        "name": "大理石纹",
+        "prompt": "Marble Veining"
+    },
+    {
+        "name": "丝绸",
+        "prompt": "Silk"
+    },
+    {
+        "name": "金属拉丝",
+        "prompt": "Brushed Metal"
+    },
+    {
+        "name": "蜂窝结构",
+        "prompt": "Honeycomb Structure"
+    },
+    {
+        "name": "水磨石",
+        "prompt": "Terrazzo"
+    },
+    {
+        "name": "皮革",
+        "prompt": "Leather"
+    },
+    {
+        "name": "碳纤维",
+        "prompt": "Carbon Fiber"
+    },
+    {
+        "name": "磨砂",
+        "prompt": "Frosted"
+    },
+    {
+        "name": "霓虹灯管",
+        "prompt": "Neon Tube"
+    },
+    {
+        "name": "水彩晕染",
+        "prompt": "Watercolor Bleeding"
+    },
+    {
+        "name": "金属网格",
+        "prompt": "Metal Mesh"
+    },
+    {
+        "name": "亚克力",
+        "prompt": "Acrylic"
+    },
+    {
+        "name": "木纹",
+        "prompt": "Wood Grain"
+    },
+    {
+        "name": "混凝土",
+        "prompt": "Concrete"
+    },
+    {
+        "name": "液态金属",
+        "prompt": "Liquid Metal"
+    },
+    {
+        "name": "珐琅",
+        "prompt": "Enamel"
+    },
+    {
+        "name": "镜面",
+        "prompt": "Mirror Finish"
+    },
+    {
+        "name": "砂岩",
+        "prompt": "Sandstone"
+    },
+    {
+        "name": "泡沫",
+        "prompt": "Foam"
+    },
+    {
+        "name": "水晶",
+        "prompt": "Crystal"
+    },
+    {
+        "name": "金属镀层",
+        "prompt": "Metal Plating"
+    },
+    {
+        "name": "生锈",
+        "prompt": "Rust"
+    },
+    {
+        "name": "珍珠母贝",
+        "prompt": "Mother of Pearl"
+    },
+    {
+        "name": "橡胶",
+        "prompt": "Rubber"
+    },
+    {
+        "name": "金属蚀刻",
+        "prompt": "Metal Etching"
+    },
+    {
+        "name": "蜡质",
+        "prompt": "Waxy"
+    },
+    {
+        "name": "金属氧化",
+        "prompt": "Metal Oxidation"
+    },
+    {
+        "name": "金属抛光",
+        "prompt": "Polished Metal"
+    },
+    {
+        "name": "金属铸造",
+        "prompt": "Metal Casting"
+    },
+    {
+        "name": "金属锻造",
+        "prompt": "Metal Forging"
+    },
+    {
+        "name": "金属冲压",
+        "prompt": "Metal Stamping"
+    },
+    {
+        "name": "金属焊接",
+        "prompt": "Metal Welding"
+    },
+    {
+        "name": "金属铆接",
+        "prompt": "Metal Riveting"
+    },
+    {
+        "name": "金属折弯",
+        "prompt": "Metal Bending"
+    },
+    {
+        "name": "金属切割",
+        "prompt": "Metal Cutting"
+    },
+    {
+        "name": "金属钻孔",
+        "prompt": "Metal Drilling"
+    },
+    {
+        "name": "金属打磨",
+        "prompt": "Metal Grinding"
+    },
+    {
+        "name": "金属抛光",
+        "prompt": "Metal Polishing"
+    },
+    {
+        "name": "金属喷砂",
+        "prompt": "Metal Sandblasting"
+    },
+    {
+        "name": "金属电镀",
+        "prompt": "Metal Electroplating"
+    },
+    {
+        "name": "金属阳极氧化",
+        "prompt": "Metal Anodizing"
+    },
+    {
+        "name": "金属粉末喷涂",
+        "prompt": "Metal Powder Coating"
+    },
+    {
+        "name": "金属电泳",
+        "prompt": "Metal Electrophoresis"
+    },
+    {
+        "name": "金属电火花",
+        "prompt": "Metal EDM"
+    },
+    {
+        "name": "金属激光切割",
+        "prompt": "Metal Laser Cutting"
+    },
+    {
+        "name": "金属水刀切割",
+        "prompt": "Metal Waterjet Cutting"
+    },
+    {
+        "name": "金属等离子切割",
+        "prompt": "Metal Plasma Cutting"
+    },
+    {
+        "name": "金属火焰切割",
+        "prompt": "Metal Flame Cutting"
+    },
+    {
+        "name": "金属超声波切割",
+        "prompt": "Metal Ultrasonic Cutting"
+    },
+    {
+        "name": "金属线切割",
+        "prompt": "Metal Wire Cutting"
+    },
+    {
+        "name": "金属激光焊接",
+        "prompt": "Metal Laser Welding"
+    },
+    {
+        "name": "金属超声波焊接",
+        "prompt": "Metal Ultrasonic Welding"
+    },
+    {
+        "name": "金属摩擦焊接",
+        "prompt": "Metal Friction Welding"
+    },
+    {
+        "name": "金属爆炸焊接",
+        "prompt": "Metal Explosion Welding"
+    },
+    {
+        "name": "金属扩散焊接",
+        "prompt": "Metal Diffusion Welding"
+    },
+    {
+        "name": "金属电子束焊接",
+        "prompt": "Metal Electron Beam Welding"
+    },
+    {
+        "name": "金属等离子焊接",
+        "prompt": "Metal Plasma Welding"
+    },
+    {
+        "name": "金属电弧焊接",
+        "prompt": "Metal Arc Welding"
+    },
+    {
+        "name": "金属气体保护焊接",
+        "prompt": "Metal Gas Shielded Welding"
+    },
+    {
+        "name": "金属埋弧焊接",
+        "prompt": "Metal Submerged Arc Welding"
+    },
+    {
+        "name": "金属电阻焊接",
+        "prompt": "Metal Resistance Welding"
+    },
+    {
+        "name": "金属点焊",
+        "prompt": "Metal Spot Welding"
+    },
+    {
+        "name": "金属缝焊",
+        "prompt": "Metal Seam Welding"
+    },
+    {
+        "name": "金属凸焊",
+        "prompt": "Metal Projection Welding"
+    },
+    {
+        "name": "金属闪光焊",
+        "prompt": "Metal Flash Welding"
+    },
+    {
+        "name": "金属对焊",
+        "prompt": "Metal Butt Welding"
+    },
+    {
+        "name": "金属钎焊",
+        "prompt": "Metal Brazing"
+    },
+    {
+        "name": "金属软钎焊",
+        "prompt": "Metal Soldering"
+    },
+    {
+        "name": "金属硬钎焊",
+        "prompt": "Metal Hard Soldering"
+    },
+    {
+        "name": "金属扩散钎焊",
+        "prompt": "Metal Diffusion Brazing"
+    },
+    {
+        "name": "金属感应钎焊",
+        "prompt": "Metal Induction Brazing"
+    },
+    {
+        "name": "金属炉中钎焊",
+        "prompt": "Metal Furnace Brazing"
+    },
+    {
+        "name": "金属真空钎焊",
+        "prompt": "Metal Vacuum Brazing"
+    },
+    {
+        "name": "金属保护气氛钎焊",
+        "prompt": "Metal Protective Atmosphere Brazing"
+    },
+    {
+        "name": "金属盐浴钎焊",
+        "prompt": "Metal Salt Bath Brazing"
+    },
+    {
+        "name": "金属火焰钎焊",
+        "prompt": "Metal Flame Brazing"
+    },
+    {
+        "name": "金属红外钎焊",
+        "prompt": "Metal Infrared Brazing"
+    },
+    {
+        "name": "金属激光钎焊",
+        "prompt": "Metal Laser Brazing"
+    },
+    {
+        "name": "金属电子束钎焊",
+        "prompt": "Metal Electron Beam Brazing"
+    },
+    {
+        "name": "金属等离子钎焊",
+        "prompt": "Metal Plasma Brazing"
+    },
+    {
+        "name": "金属超声波钎焊",
+        "prompt": "Metal Ultrasonic Brazing"
+    },
+    {
+        "name": "金属摩擦钎焊",
+        "prompt": "Metal Friction Brazing"
+    },
+    {
+        "name": "金属爆炸钎焊",
+        "prompt": "Metal Explosion Brazing"
+    },
+    {
+        "name": "金属扩散钎焊",
+        "prompt": "Metal Diffusion Brazing"
+    }
+]

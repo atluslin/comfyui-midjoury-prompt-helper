@@ -1,0 +1,410 @@
+[
+    {
+        "name": "兴奋",
+        "prompt": "excited"
+    },
+    {
+        "name": "开心",
+        "prompt": "happy"
+    },
+    {
+        "name": "欢欣",
+        "prompt": "elated"
+    },
+    {
+        "name": "邪恶微笑",
+        "prompt": "evil smile"
+    },
+    {
+        "name": "坏笑",
+        "prompt": "smirk"
+    },
+    {
+        "name": "哭泣",
+        "prompt": "crying"
+    },
+    {
+        "name": "惊讶",
+        "prompt": "surprised"
+    },
+    {
+        "name": "短发",
+        "prompt": "short hair"
+    },
+    {
+        "name": "头发披肩",
+        "prompt": "hair over shoulder"
+    },
+    {
+        "name": "黑发",
+        "prompt": "black hair"
+    },
+    {
+        "name": "双马尾",
+        "prompt": "twintails"
+    },
+    {
+        "name": "辫子",
+        "prompt": "braid"
+    },
+    {
+        "name": "咬紧牙关",
+        "prompt": "clenched teeth"
+    },
+    {
+        "name": "睁大眼睛",
+        "prompt": "wide eyes"
+    },
+    {
+        "name": "幸福的眼泪",
+        "prompt": "happy tears"
+    },
+    {
+        "name": "愤怒",
+        "prompt": "angry"
+    },
+    {
+        "name": "异想天开的妆容",
+        "prompt": "whimsical makeup"
+    },
+    {
+        "name": "紫色妆容",
+        "prompt": "violet makeup"
+    },
+    {
+        "name": "红唇",
+        "prompt": "red lips"
+    },
+    {
+        "name": "粉色妆容",
+        "prompt": "pink makeup"
+    },
+    {
+        "name": "柔和妆容",
+        "prompt": "pastel makeup"
+    },
+    {
+        "name": "自然妆容",
+        "prompt": "natural makeup"
+    },
+    {
+        "name": "美人鱼妆容",
+        "prompt": "mermaid makeup"
+    },
+    {
+        "name": "韩式妆容",
+        "prompt": "korean makeup"
+    },
+    {
+        "name": "万圣节妆容",
+        "prompt": "halloween makeup"
+    },
+    {
+        "name": "哥特妆容",
+        "prompt": "gothic makeup"
+    },
+    {
+        "name": "珊瑚色嘴唇",
+        "prompt": "coral lips"
+    },
+    {
+        "name": "大胆妆容",
+        "prompt": "bold makeup"
+    },
+    {
+        "name": "蓝色妆容",
+        "prompt": "blue makeup"
+    },
+    {
+        "name": "困惑",
+        "prompt": "perplexed"
+    },
+    {
+        "name": "激动",
+        "prompt": "thrilled"
+    },
+    {
+        "name": "镇定",
+        "prompt": "composed"
+    },
+    {
+        "name": "好奇",
+        "prompt": "curious"
+    },
+    {
+        "name": "震惊",
+        "prompt": "astonished"
+    },
+    {
+        "name": "厌恶",
+        "prompt": "disgusted"
+    },
+    {
+        "name": "担忧",
+        "prompt": "worried"
+    },
+    {
+        "name": "疲惫",
+        "prompt": "tired"
+    },
+    {
+        "name": "羞愧",
+        "prompt": "ashamed"
+    },
+    {
+        "name": "恐惧",
+        "prompt": "terrified"
+    },
+    {
+        "name": "害怕",
+        "prompt": "fearful"
+    },
+    {
+        "name": "无聊",
+        "prompt": "bored"
+    },
+    {
+        "name": "焦虑",
+        "prompt": "anxious"
+    },
+    {
+        "name": "王冠",
+        "prompt": "crown"
+    },
+    {
+        "name": "太阳镜",
+        "prompt": "sunglasses"
+    },
+    {
+        "name": "贝雷帽",
+        "prompt": "beret"
+    },
+    {
+        "name": "巫师帽",
+        "prompt": "wizard hat"
+    },
+    {
+        "name": "防毒面具",
+        "prompt": "gas mask"
+    },
+    {
+        "name": "头花",
+        "prompt": "hair flower"
+    },
+    {
+        "name": "医用口罩",
+        "prompt": "Medical masks"
+    },
+    {
+        "name": "发带",
+        "prompt": "hair ribbon"
+    },
+    {
+        "name": "水手帽",
+        "prompt": "sailor hat"
+    },
+    {
+        "name": "面纱",
+        "prompt": "mouth veil"
+    },
+    {
+        "name": "眼罩",
+        "prompt": "blindfold"
+    },
+    {
+        "name": "狐狸面具",
+        "prompt": "fox mask"
+    },
+    {
+        "name": "发夹",
+        "prompt": "hairpin"
+    },
+    {
+        "name": "女仆头饰",
+        "prompt": "maid headdress"
+    },
+    {
+        "name": "面膜",
+        "prompt": "facial mask"
+    },
+    {
+        "name": "耳机",
+        "prompt": "headphones"
+    },
+    {
+        "name": "头戴显示器",
+        "prompt": "head mounted display"
+    },
+    {
+        "name": "护士帽",
+        "prompt": "nurse cap"
+    },
+    {
+        "name": "双丸子头",
+        "prompt": "double bun"
+    },
+    {
+        "name": "辫子马尾",
+        "prompt": "braided ponytail"
+    },
+    {
+        "name": "灰发",
+        "prompt": "grey hair"
+    },
+    {
+        "name": "粉发",
+        "prompt": "pink hair"
+    },
+    {
+        "name": "多彩发色",
+        "prompt": "multicolored hair"
+    },
+    {
+        "name": "红发",
+        "prompt": "red hair"
+    },
+    {
+        "name": "银发",
+        "prompt": "silver hair"
+    },
+    {
+        "name": "金发",
+        "prompt": "blonde hair"
+    },
+    {
+        "name": "白发",
+        "prompt": "white hair"
+    },
+    {
+        "name": "寸头",
+        "prompt": "buzz cut"
+    },
+    {
+        "name": "齐刘海",
+        "prompt": "blunt bangs"
+    },
+    {
+        "name": "侧发",
+        "prompt": "sidelocks"
+    },
+    {
+        "name": "交叉刘海",
+        "prompt": "crossed bangs"
+    },
+    {
+        "name": "遮眼发",
+        "prompt": "hair over eyes"
+    },
+    {
+        "name": "发髻",
+        "prompt": "hair bun"
+    },
+    {
+        "name": "短马尾",
+        "prompt": "short ponytail"
+    },
+    {
+        "name": "耳后发",
+        "prompt": "hair behind ear"
+    },
+    {
+        "name": "脏辫",
+        "prompt": "dreadlocks"
+    },
+    {
+        "name": "湿发",
+        "prompt": "wet hair"
+    },
+    {
+        "name": "秃头",
+        "prompt": "bald"
+    },
+    {
+        "name": "锅盖头",
+        "prompt": "bowl cut"
+    },
+    {
+        "name": "困惑",
+        "prompt": "confused"
+    },
+    {
+        "name": "巨魔",
+        "prompt": "troll"
+    },
+    {
+        "name": "恶魔之眼",
+        "prompt": "devil eyes"
+    },
+    {
+        "name": "失望",
+        "prompt": "disappointed"
+    },
+    {
+        "name": "醉酒",
+        "prompt": "drunk"
+    },
+    {
+        "name": "厌恶",
+        "prompt": "disgust"
+    },
+    {
+        "name": "高兴",
+        "prompt": "Delighted"
+    },
+    {
+        "name": "闭眼",
+        "prompt": "closed eyes"
+    },
+    {
+        "name": "眼下痣",
+        "prompt": "mole under eye"
+    },
+    {
+        "name": "张嘴",
+        "prompt": "open mouth"
+    },
+    {
+        "name": "异色瞳",
+        "prompt": "heterochromia"
+    },
+    {
+        "name": "脸红",
+        "prompt": "blush"
+    },
+    {
+        "name": "沮丧",
+        "prompt": "upset"
+    },
+    {
+        "name": "撅嘴",
+        "prompt": "pout"
+    },
+    {
+        "name": "轻蔑",
+        "prompt": "disdain"
+    },
+    {
+        "name": "挑眉",
+        "prompt": "raised eyebrows"
+    },
+    {
+        "name": "痛苦",
+        "prompt": "pain"
+    },
+    {
+        "name": "眼泪",
+        "prompt": "tears"
+    },
+    {
+        "name": "疯狂",
+        "prompt": "crazy"
+    },
+    {
+        "name": "残忍",
+        "prompt": "brutal"
+    },
+    {
+        "name": "悲伤",
+        "prompt": "sad"
+    }
+]

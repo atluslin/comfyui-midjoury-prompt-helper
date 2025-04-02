@@ -1,0 +1,326 @@
+[
+    {
+        "name": "奔跑",
+        "prompt": "running"
+    },
+    {
+        "name": "跳跃",
+        "prompt": "jumping"
+    },
+    {
+        "name": "旋转",
+        "prompt": "spinning"
+    },
+    {
+        "name": "漂浮",
+        "prompt": "floating"
+    },
+    {
+        "name": "坠落",
+        "prompt": "falling"
+    },
+    {
+        "name": "滑行",
+        "prompt": "gliding"
+    },
+    {
+        "name": "摇摆",
+        "prompt": "swaying"
+    },
+    {
+        "name": "颤抖",
+        "prompt": "trembling"
+    },
+    {
+        "name": "振动",
+        "prompt": "vibrating"
+    },
+    {
+        "name": "爆炸",
+        "prompt": "exploding"
+    },
+    {
+        "name": "溶解",
+        "prompt": "dissolving"
+    },
+    {
+        "name": "流动",
+        "prompt": "flowing"
+    },
+    {
+        "name": "喷发",
+        "prompt": "erupting"
+    },
+    {
+        "name": "膨胀",
+        "prompt": "expanding"
+    },
+    {
+        "name": "收缩",
+        "prompt": "contracting"
+    },
+    {
+        "name": "扭曲",
+        "prompt": "twisting"
+    },
+    {
+        "name": "弯曲",
+        "prompt": "bending"
+    },
+    {
+        "name": "拉伸",
+        "prompt": "stretching"
+    },
+    {
+        "name": "压缩",
+        "prompt": "compressing"
+    },
+    {
+        "name": "弹跳",
+        "prompt": "bouncing"
+    },
+    {
+        "name": "滑动",
+        "prompt": "sliding"
+    },
+    {
+        "name": "翻滚",
+        "prompt": "tumbling"
+    },
+    {
+        "name": "盘旋",
+        "prompt": "hovering"
+    },
+    {
+        "name": "俯冲",
+        "prompt": "diving"
+    },
+    {
+        "name": "上升",
+        "prompt": "ascending"
+    },
+    {
+        "name": "下降",
+        "prompt": "descending"
+    },
+    {
+        "name": "摆动",
+        "prompt": "oscillating"
+    },
+    {
+        "name": "脉冲",
+        "prompt": "pulsing"
+    },
+    {
+        "name": "闪烁",
+        "prompt": "flickering"
+    },
+    {
+        "name": "波动",
+        "prompt": "undulating"
+    },
+    {
+        "name": "分裂",
+        "prompt": "splitting"
+    },
+    {
+        "name": "融合",
+        "prompt": "merging"
+    },
+    {
+        "name": "蒸发",
+        "prompt": "evaporating"
+    },
+    {
+        "name": "凝结",
+        "prompt": "condensing"
+    },
+    {
+        "name": "燃烧",
+        "prompt": "burning"
+    },
+    {
+        "name": "冻结",
+        "prompt": "freezing"
+    },
+    {
+        "name": "融化",
+        "prompt": "melting"
+    },
+    {
+        "name": "沸腾",
+        "prompt": "boiling"
+    },
+    {
+        "name": "溅射",
+        "prompt": "splashing"
+    },
+    {
+        "name": "滴落",
+        "prompt": "dripping"
+    },
+    {
+        "name": "喷射",
+        "prompt": "jetting"
+    },
+    {
+        "name": "扩散",
+        "prompt": "diffusing"
+    },
+    {
+        "name": "聚集",
+        "prompt": "converging"
+    },
+    {
+        "name": "散射",
+        "prompt": "scattering"
+    },
+    {
+        "name": "旋转上升",
+        "prompt": "spiraling up"
+    },
+    {
+        "name": "旋转下降",
+        "prompt": "spiraling down"
+    },
+    {
+        "name": "弹射",
+        "prompt": "catapulting"
+    },
+    {
+        "name": "弹开",
+        "prompt": "springing"
+    },
+    {
+        "name": "抽搐",
+        "prompt": "twitching"
+    },
+    {
+        "name": "抖动",
+        "prompt": "shaking"
+    },
+    {
+        "name": "摇晃",
+        "prompt": "rocking"
+    },
+    {
+        "name": "拍打",
+        "prompt": "flapping"
+    },
+    {
+        "name": "扇动",
+        "prompt": "fanning"
+    },
+    {
+        "name": "蠕动",
+        "prompt": "squirming"
+    },
+    {
+        "name": "爬行",
+        "prompt": "crawling"
+    },
+    {
+        "name": "游动",
+        "prompt": "swimming"
+    },
+    {
+        "name": "飞行",
+        "prompt": "flying"
+    },
+    {
+        "name": "滑翔",
+        "prompt": "soaring"
+    },
+    {
+        "name": "冲刺",
+        "prompt": "dashing"
+    },
+    {
+        "name": "急停",
+        "prompt": "braking"
+    },
+    {
+        "name": "加速",
+        "prompt": "accelerating"
+    },
+    {
+        "name": "减速",
+        "prompt": "decelerating"
+    },
+    {
+        "name": "反弹",
+        "prompt": "rebounding"
+    },
+    {
+        "name": "回弹",
+        "prompt": "snapping back"
+    },
+    {
+        "name": "弹回",
+        "prompt": "ricocheting"
+    },
+    {
+        "name": "旋转跳跃",
+        "prompt": "leaping"
+    },
+    {
+        "name": "翻滚跳跃",
+        "prompt": "somersaulting"
+    },
+    {
+        "name": "侧翻",
+        "prompt": "cartwheeling"
+    },
+    {
+        "name": "空翻",
+        "prompt": "flipping"
+    },
+    {
+        "name": "旋转下落",
+        "prompt": "twirling down"
+    },
+    {
+        "name": "螺旋上升",
+        "prompt": "corkscrewing up"
+    },
+    {
+        "name": "螺旋下降",
+        "prompt": "corkscrewing down"
+    },
+    {
+        "name": "弹跳前进",
+        "prompt": "bouncing forward"
+    },
+    {
+        "name": "弹跳后退",
+        "prompt": "bouncing backward"
+    },
+    {
+        "name": "弹跳旋转",
+        "prompt": "bouncing spin"
+    },
+    {
+        "name": "弹跳扭曲",
+        "prompt": "bouncing twist"
+    },
+    {
+        "name": "弹跳拉伸",
+        "prompt": "bouncing stretch"
+    },
+    {
+        "name": "弹跳压缩",
+        "prompt": "bouncing compress"
+    },
+    {
+        "name": "弹跳变形",
+        "prompt": "bouncing morph"
+    },
+    {
+        "name": "弹跳分裂",
+        "prompt": "bouncing split"
+    },
+    {
+        "name": "弹跳融合",
+        "prompt": "bouncing merge"
+    }
+]

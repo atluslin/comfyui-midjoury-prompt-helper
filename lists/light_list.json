@@ -1,0 +1,358 @@
+[
+    {
+        "name": "照片级真实感",
+        "prompt": "photorealistic"
+    },
+    {
+        "name": "超高清",
+        "prompt": "UhD"
+    },
+    {
+        "name": "8K分辨率",
+        "prompt": "8K"
+    },
+    {
+        "name": "高动态范围",
+        "prompt": "HDR"
+    },
+    {
+        "name": "3D渲染",
+        "prompt": "3D rendering"
+    },
+    {
+        "name": "商业摄影",
+        "prompt": "commercial photography"
+    },
+    {
+        "name": "索尼Alpha a7",
+        "prompt": "Sony Alpha a7"
+    },
+    {
+        "name": "真实生活",
+        "prompt": "real life"
+    },
+    {
+        "name": "平滑",
+        "prompt": "smoothy"
+    },
+    {
+        "name": "空间反射",
+        "prompt": "space reflection"
+    },
+    {
+        "name": "复杂细节",
+        "prompt": "intricated details"
+    },
+    {
+        "name": "壁纸",
+        "prompt": "wall-paper"
+    },
+    {
+        "name": "场景设计",
+        "prompt": "scene design"
+    },
+    {
+        "name": "高度真实",
+        "prompt": "highly realistic"
+    },
+    {
+        "name": "高清",
+        "prompt": "HD"
+    },
+    {
+        "name": "真实感",
+        "prompt": "realistic"
+    },
+    {
+        "name": "史诗感",
+        "prompt": "epic"
+    },
+    {
+        "name": "35毫米",
+        "prompt": "35mm"
+    },
+    {
+        "name": "电影感",
+        "prompt": "cinematic"
+    },
+    {
+        "name": "徕卡镜头",
+        "prompt": "leica lens"
+    },
+    {
+        "name": "Octane渲染",
+        "prompt": "Octane Render"
+    },
+    {
+        "name": "4K分辨率",
+        "prompt": "4K"
+    },
+    {
+        "name": "细节丰富",
+        "prompt": "detailed"
+    },
+    {
+        "name": "虚幻引擎",
+        "prompt": "unreal engine"
+    },
+    {
+        "name": "超真实",
+        "prompt": "ultra realistic"
+    },
+    {
+        "name": "光线追踪反射",
+        "prompt": "Ray Tracing Reflections"
+    },
+    {
+        "name": "演唱会灯光",
+        "prompt": "Concert Lighting"
+    },
+    {
+        "name": "正面照明",
+        "prompt": "front Lighting"
+    },
+    {
+        "name": "化学发光",
+        "prompt": "Chemiluminescence"
+    },
+    {
+        "name": "核废料辉光",
+        "prompt": "Nuclear Waste Glow"
+    },
+    {
+        "name": "低调照明",
+        "prompt": "Low key lighting"
+    },
+    {
+        "name": "发光霓虹",
+        "prompt": "glowing neon"
+    },
+    {
+        "name": "发光效果",
+        "prompt": "Glowing"
+    },
+    {
+        "name": "泛光灯",
+        "prompt": "Floodlight"
+    },
+    {
+        "name": "美丽照明",
+        "prompt": "Beautiful Lighting"
+    },
+    {
+        "name": "荧光",
+        "prompt": "Fluorescent"
+    },
+    {
+        "name": "边缘光",
+        "prompt": "Edge light"
+    },
+    {
+        "name": "月光",
+        "prompt": "Moonlight"
+    },
+    {
+        "name": "双重照明",
+        "prompt": "Dual Lighting"
+    },
+    {
+        "name": "迪斯科灯光",
+        "prompt": "Disco Lighting"
+    },
+    {
+        "name": "硬光",
+        "prompt": "hard lighting"
+    },
+    {
+        "name": "三点照明",
+        "prompt": "3 point lighting"
+    },
+    {
+        "name": "灰尘效果",
+        "prompt": "dust"
+    },
+    {
+        "name": "紫外线",
+        "prompt": "Ultraviolet"
+    },
+    {
+        "name": "闪光",
+        "prompt": "Glitter"
+    },
+    {
+        "name": "从天而降的光束",
+        "prompt": "a beam of light came down from above"
+    },
+    {
+        "name": "熔岩辉光",
+        "prompt": "Lava Glow"
+    },
+    {
+        "name": "火焰",
+        "prompt": "flame"
+    },
+    {
+        "name": "主光",
+        "prompt": "Key lighting"
+    },
+    {
+        "name": "蓝色时刻",
+        "prompt": "Blue Hour"
+    },
+    {
+        "name": "频闪灯",
+        "prompt": "Strobe light"
+    },
+    {
+        "name": "内部辉光",
+        "prompt": "Internal Glow"
+    },
+    {
+        "name": "烛光",
+        "prompt": "Candlelight"
+    },
+    {
+        "name": "电磁频谱",
+        "prompt": "Electromagnetic Spectrum"
+    },
+    {
+        "name": "分割照明",
+        "prompt": "Split Lighting"
+    },
+    {
+        "name": "电致发光线",
+        "prompt": "Electroluminescent Wire"
+    },
+    {
+        "name": "辐射发光",
+        "prompt": "Radioluminescence"
+    },
+    {
+        "name": "夜店灯光",
+        "prompt": "Nightclub Lighting"
+    },
+    {
+        "name": "荧光照明",
+        "prompt": "Fluorescent Lighting"
+    },
+    {
+        "name": "黄金时刻光",
+        "prompt": "Golden hour light"
+    },
+    {
+        "name": "放射性辉光",
+        "prompt": "Glow Radioactive"
+    },
+    {
+        "name": "霓虹灯",
+        "prompt": "Neon Light"
+    },
+    {
+        "name": "云隙光",
+        "prompt": "Crepuscular Rays"
+    },
+    {
+        "name": "闪烁灯光",
+        "prompt": "Shimmering Lights"
+    },
+    {
+        "name": "戏剧性照明",
+        "prompt": "Dramatic Lighting"
+    },
+    {
+        "name": "量子点",
+        "prompt": "Quantum Dot"
+    },
+    {
+        "name": "光晕",
+        "prompt": "Flare"
+    },
+    {
+        "name": "背光",
+        "prompt": "Backlight"
+    },
+    {
+        "name": "动机照明",
+        "prompt": "Motivated lighting"
+    },
+    {
+        "name": "星空",
+        "prompt": "Starry"
+    },
+    {
+        "name": "夜光",
+        "prompt": "Glow in the Dark"
+    },
+    {
+        "name": "火炬照明",
+        "prompt": "Torchlit"
+    },
+    {
+        "name": "反射光",
+        "prompt": "reflect lights"
+    },
+    {
+        "name": "午夜",
+        "prompt": "Midnight"
+    },
+    {
+        "name": "激光",
+        "prompt": "Laser"
+    },
+    {
+        "name": "环境光",
+        "prompt": "Ambient Light"
+    },
+    {
+        "name": "黄昏",
+        "prompt": "Dusk"
+    },
+    {
+        "name": "轮廓光",
+        "prompt": "Rim light"
+    },
+    {
+        "name": "晨光",
+        "prompt": "morning light"
+    },
+    {
+        "name": "黑光",
+        "prompt": "Blacklight"
+    },
+    {
+        "name": "自然光",
+        "prompt": "Natural Lighting"
+    },
+    {
+        "name": "发光粒子效果",
+        "prompt": "Glowing Particle Effects"
+    },
+    {
+        "name": "冷光",
+        "prompt": "Cold light"
+    },
+    {
+        "name": "伦勃朗光",
+        "prompt": "Rembrandt Lighting"
+    },
+    {
+        "name": "重点照明",
+        "prompt": "Accent Lighting"
+    },
+    {
+        "name": "体积光",
+        "prompt": "Volumetric Lighting"
+    },
+    {
+        "name": "影棚照明",
+        "prompt": "Studio lighting"
+    },
+    {
+        "name": "直射阳光",
+        "prompt": "Direct Sunlight"
+    },
+    {
+        "name": "全局光照",
+        "prompt": "global illuminations"
+    }
+]

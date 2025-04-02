@@ -1,0 +1,662 @@
+[
+    {
+        "name": "纯黑背景",
+        "prompt": "solid Black background"
+    },
+    {
+        "name": "纯白背景",
+        "prompt": "solid white background"
+    },
+    {
+        "name": "纯色背景",
+        "prompt": "Solid color background"
+    },
+    {
+        "name": "亮白色",
+        "prompt": "crisp-white"
+    },
+    {
+        "name": "白色",
+        "prompt": "white"
+    },
+    {
+        "name": "黑色",
+        "prompt": "Black color"
+    },
+    {
+        "name": "黄色调",
+        "prompt": "yellow tones"
+    },
+    {
+        "name": "浅黑色调",
+        "prompt": "Light-Black tones"
+    },
+    {
+        "name": "赤陶色",
+        "prompt": "Terra Cotta"
+    },
+    {
+        "name": "红色调",
+        "prompt": "red tones"
+    },
+    {
+        "name": "黄白色调",
+        "prompt": "yellow and white tones"
+    },
+    {
+        "name": "黄绿色",
+        "prompt": "yellow green"
+    },
+    {
+        "name": "西瓜色",
+        "prompt": "watermelon color"
+    },
+    {
+        "name": "褪色",
+        "prompt": "washed out colors"
+    },
+    {
+        "name": "暖色调",
+        "prompt": "warm colors"
+    },
+    {
+        "name": "鲜艳色彩",
+        "prompt": "vivid colors"
+    },
+    {
+        "name": "复古色彩",
+        "prompt": "vintage colors"
+    },
+    {
+        "name": "全息渐变",
+        "prompt": "vibrant holographic gradient"
+    },
+    {
+        "name": "活力色彩",
+        "prompt": "vibrant colors"
+    },
+    {
+        "name": "极黑色",
+        "prompt": "vantablack"
+    },
+    {
+        "name": "正蓝色",
+        "prompt": "true blue"
+    },
+    {
+        "name": "热带色彩",
+        "prompt": "tropical colors"
+    },
+    {
+        "name": "科技色彩",
+        "prompt": "technology colors"
+    },
+    {
+        "name": "彩色",
+        "prompt": "technicolor"
+    },
+    {
+        "name": "蓝绿色",
+        "prompt": "teal"
+    },
+    {
+        "name": "茶色",
+        "prompt": "tea color"
+    },
+    {
+        "name": "黄褐色",
+        "prompt": "tawny color"
+    },
+    {
+        "name": "橘红色",
+        "prompt": "tangerine color"
+    },
+    {
+        "name": "棕褐色",
+        "prompt": "tan color"
+    },
+    {
+        "name": "甜美色彩",
+        "prompt": "sweet colors"
+    },
+    {
+        "name": "春绿色",
+        "prompt": "spring green"
+    },
+    {
+        "name": "光谱色",
+        "prompt": "spectrum colors"
+    },
+    {
+        "name": "煤烟色",
+        "prompt": "sooty colors"
+    },
+    {
+        "name": "雪白色",
+        "prompt": "snow white color"
+    },
+    {
+        "name": "烟黑色",
+        "prompt": "smoky black"
+    },
+    {
+        "name": "石板灰",
+        "prompt": "slate gray"
+    },
+    {
+        "name": "银色",
+        "prompt": "silver colors"
+    },
+    {
+        "name": "赭色",
+        "prompt": "sienna color"
+    },
+    {
+        "name": "棕褐色调",
+        "prompt": "sepia colors"
+    },
+    {
+        "name": "猩红色",
+        "prompt": "scarlet color"
+    },
+    {
+        "name": "鲑鱼色",
+        "prompt": "salmon color"
+    },
+    {
+        "name": "藏红花黄",
+        "prompt": "saffron yellow"
+    },
+    {
+        "name": "质朴色彩",
+        "prompt": "rustic colors"
+    },
+    {
+        "name": "俄罗斯紫",
+        "prompt": "russian violet"
+    },
+    {
+        "name": "胭脂红",
+        "prompt": "rouge color"
+    },
+    {
+        "name": "玫瑰色",
+        "prompt": "rose color"
+    },
+    {
+        "name": "浓郁色彩",
+        "prompt": "rich colors"
+    },
+    {
+        "name": "复古色",
+        "prompt": "retro colors"
+    },
+    {
+        "name": "红铜色",
+        "prompt": "red copper"
+    },
+    {
+        "name": "葡萄干色",
+        "prompt": "raisin color"
+    },
+    {
+        "name": "辐射色",
+        "prompt": "radiant colors"
+    },
+    {
+        "name": "普鲁士蓝",
+        "prompt": "prussian blue"
+    },
+    {
+        "name": "棱镜色",
+        "prompt": "prismatic colors"
+    },
+    {
+        "name": "梅子色",
+        "prompt": "plum colors"
+    },
+    {
+        "name": "铂金色",
+        "prompt": "platinum color"
+    },
+    {
+        "name": "粉色",
+        "prompt": "pink color"
+    },
+    {
+        "name": "桃色",
+        "prompt": "peach color"
+    },
+    {
+        "name": "淡粉色",
+        "prompt": "pastel pink"
+    },
+    {
+        "name": "淡橙色",
+        "prompt": "pastel orange"
+    },
+    {
+        "name": "淡绿色",
+        "prompt": "pastel green"
+    },
+    {
+        "name": "柔和色",
+        "prompt": "pastel colors"
+    },
+    {
+        "name": "淡色",
+        "prompt": "pale colors"
+    },
+    {
+        "name": "橙红色",
+        "prompt": "orange red"
+    },
+    {
+        "name": "橄榄色",
+        "prompt": "olive color"
+    },
+    {
+        "name": "中性色",
+        "prompt": "neutral colors"
+    },
+    {
+        "name": "霓虹粉",
+        "prompt": "neon pink"
+    },
+    {
+        "name": "霓虹橙",
+        "prompt": "neon orange"
+    },
+    {
+        "name": "霓虹绿",
+        "prompt": "neon green"
+    },
+    {
+        "name": "霓虹色",
+        "prompt": "neon colors"
+    },
+    {
+        "name": "纳瓦霍白",
+        "prompt": "navajo white"
+    },
+    {
+        "name": "哑光色",
+        "prompt": "muted colors"
+    },
+    {
+        "name": "薄荷色",
+        "prompt": "mint color"
+    },
+    {
+        "name": "千禧粉",
+        "prompt": "millenial pink"
+    },
+    {
+        "name": "浑浊色",
+        "prompt": "muddy colors"
+    },
+    {
+        "name": "午夜蓝",
+        "prompt": "midnight blue"
+    },
+    {
+        "name": "淡紫色",
+        "prompt": "mauve"
+    },
+    {
+        "name": "金盏花色",
+        "prompt": "marigold color"
+    },
+    {
+        "name": "桃花心木色",
+        "prompt": "mahogany color"
+    },
+    {
+        "name": "品红色",
+        "prompt": "magenta color"
+    },
+    {
+        "name": "响亮色彩",
+        "prompt": "loud colors"
+    },
+    {
+        "name": "亚麻色",
+        "prompt": "linen color"
+    },
+    {
+        "name": "青柠色",
+        "prompt": "lime colors"
+    },
+    {
+        "name": "浅粉色",
+        "prompt": "light pink colors"
+    },
+    {
+        "name": "浅绿色",
+        "prompt": "light green"
+    },
+    {
+        "name": "浅色调",
+        "prompt": "light colors"
+    },
+    {
+        "name": "薰衣草腮红",
+        "prompt": "lavender blush"
+    },
+    {
+        "name": "卡其色",
+        "prompt": "khaki"
+    },
+    {
+        "name": "猎人绿",
+        "prompt": "hunter green"
+    },
+    {
+        "name": "亮粉色",
+        "prompt": "hot pink"
+    },
+    {
+        "name": "热色调",
+        "prompt": "hot colors"
+    },
+    {
+        "name": "枪金属灰",
+        "prompt": "gunmetal gray"
+    },
+    {
+        "name": "软糖色",
+        "prompt": "gummy colors"
+    },
+    {
+        "name": "图表色",
+        "prompt": "graph color"
+    },
+    {
+        "name": "渐变色",
+        "prompt": "gradient colors"
+    },
+    {
+        "name": "紫红色",
+        "prompt": "fuchsia colors"
+    },
+    {
+        "name": "荧光色",
+        "prompt": "fluorescent colors"
+    },
+    {
+        "name": "火焰色",
+        "prompt": "flaming colors"
+    },
+    {
+        "name": "炽热色",
+        "prompt": "fiery colors"
+    },
+    {
+        "name": "亚麻色",
+        "prompt": "fflax color"
+    },
+    {
+        "name": "节日色彩",
+        "prompt": "festive colors"
+    },
+    {
+        "name": "电紫色",
+        "prompt": "electric purple"
+    },
+    {
+        "name": "电靛蓝",
+        "prompt": "electric indigo"
+    },
+    {
+        "name": "电光色",
+        "prompt": "electric colors"
+    },
+    {
+        "name": "米色",
+        "prompt": "ecru color"
+    },
+    {
+        "name": "大地色调",
+        "prompt": "earth tones"
+    },
+    {
+        "name": "灰暗色",
+        "prompt": "dusty colors"
+    },
+    {
+        "name": "土褐色",
+        "prompt": "drab colors"
+    },
+    {
+        "name": "褪色",
+        "prompt": "discolored"
+    },
+    {
+        "name": "暗淡色",
+        "prompt": "dim colors"
+    },
+    {
+        "name": "深色调",
+        "prompt": "deep colors"
+    },
+    {
+        "name": "深紫罗兰",
+        "prompt": "dark violet"
+    },
+    {
+        "name": "深紫色",
+        "prompt": "dark purple"
+    },
+    {
+        "name": "深粉色",
+        "prompt": "dark pink"
+    },
+    {
+        "name": "深橙色",
+        "prompt": "dark orange"
+    },
+    {
+        "name": "深绿色",
+        "prompt": "dark green"
+    },
+    {
+        "name": "深色调",
+        "prompt": "dark colors"
+    },
+    {
+        "name": "青色",
+        "prompt": "cyan"
+    },
+    {
+        "name": "青色调",
+        "prompt": "cyan colors"
+    },
+    {
+        "name": "深红色",
+        "prompt": "crimson red"
+    },
+    {
+        "name": "绯红色",
+        "prompt": "crimson colors"
+    },
+    {
+        "name": "棉花糖色",
+        "prompt": "cotton candy colors"
+    },
+    {
+        "name": "珊瑚色",
+        "prompt": "coral color"
+    },
+    {
+        "name": "矢车菊蓝",
+        "prompt": "cornflower blue"
+    },
+    {
+        "name": "铜色",
+        "prompt": "cooper color"
+    },
+    {
+        "name": "冷色调",
+        "prompt": "cool colors"
+    },
+    {
+        "name": "无色",
+        "prompt": "colorless"
+    },
+    {
+        "name": "钴色",
+        "prompt": "cobalt color"
+    },
+    {
+        "name": "钴蓝色",
+        "prompt": "cobalt blue color"
+    },
+    {
+        "name": "肉桂色",
+        "prompt": "cinnamon colors"
+    },
+    {
+        "name": "中国紫",
+        "prompt": "chinese violet"
+    },
+    {
+        "name": "栗色",
+        "prompt": "chestnut color"
+    },
+    {
+        "name": "黄绿色",
+        "prompt": "chartreuse color"
+    },
+    {
+        "name": "蔚蓝色",
+        "prompt": "cerulean blue color"
+    },
+    {
+        "name": "糖果色",
+        "prompt": "candy colors"
+    },
+    {
+        "name": "金丝雀黄",
+        "prompt": "canary yellow"
+    },
+    {
+        "name": "焦赭色",
+        "prompt": "burnt sienna"
+    },
+    {
+        "name": "焦琥珀色",
+        "prompt": "burnt amber"
+    },
+    {
+        "name": "酒红色",
+        "prompt": "burgundy colors"
+    },
+    {
+        "name": "浅黄色",
+        "prompt": "buff color"
+    },
+    {
+        "name": "青铜色",
+        "prompt": "bronze colors"
+    },
+    {
+        "name": "明亮色",
+        "prompt": "brilliant colors"
+    },
+    {
+        "name": "亮色",
+        "prompt": "bright colors"
+    },
+    {
+        "name": "鲜艳大胆色",
+        "prompt": "bright bold colors"
+    },
+    {
+        "name": "艳丽色",
+        "prompt": "brash colors"
+    },
+    {
+        "name": "波尔多红",
+        "prompt": "bordo color"
+    },
+    {
+        "name": "大胆色",
+        "prompt": "bold colors"
+    },
+    {
+        "name": "腮红色",
+        "prompt": "blush colors"
+    },
+    {
+        "name": "蓝紫色",
+        "prompt": "blue violet"
+    },
+    {
+        "name": "血红",
+        "prompt": "blood red"
+    },
+    {
+        "name": "暗淡色",
+        "prompt": "bleak colors"
+    },
+    {
+        "name": "漂白色",
+        "prompt": "bleached colors"
+    },
+    {
+        "name": "黑橄榄色",
+        "prompt": "black olive"
+    },
+    {
+        "name": "黑豆色",
+        "prompt": "black bean color"
+    },
+    {
+        "name": "黑白",
+        "prompt": "black and white"
+    },
+    {
+        "name": "米色",
+        "prompt": "beige colors"
+    },
+    {
+        "name": "闪耀色",
+        "prompt": "beaming colors"
+    },
+    {
+        "name": "婴儿粉",
+        "prompt": "baby pink"
+    },
+    {
+        "name": "婴儿蓝",
+        "prompt": "baby blue"
+    },
+    {
+        "name": "赤褐色",
+        "prompt": "auburn color"
+    },
+    {
+        "name": "灰白色",
+        "prompt": "ashy colors"
+    },
+    {
+        "name": "灰白色",
+        "prompt": "ash gray"
+    },
+    {
+        "name": "水色",
+        "prompt": "aqua colors"
+    },
+    {
+        "name": "杏色",
+        "prompt": "apricot color"
+    },
+    {
+        "name": "炽热色",
+        "prompt": "ablaze colors"
+    },
+    {
+        "name": "红黑调",
+        "prompt": "red and black tone"
+    }
+]
